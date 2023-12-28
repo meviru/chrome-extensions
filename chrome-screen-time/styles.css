@@ -1,0 +1,17 @@
+body {
+    width: 300px;
+    padding: 10px;
+}
+
+#productivity-container {
+    text-align: center;
+}
+
+#productivity-text {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#category-stats {
+    margin-top: 20px;
+}

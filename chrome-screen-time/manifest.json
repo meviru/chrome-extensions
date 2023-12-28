@@ -1,0 +1,6 @@
+{
+    "permissions": [
+        "history",
+        "storage"
+    ]
+}
